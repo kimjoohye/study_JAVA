@@ -1,0 +1,25 @@
+package com.pcwk.exception;
+
+import com.pcwk.api.string.LoggerManager;
+
+public class ExceptionEx01Main implements LoggerManager {
+
+	public static void main(String[] args) {
+		int number = 100;
+		int result = 0;
+		
+		for(int i=0;i<=20;i++) {
+			// 0.0<=x<1.0
+			result = number / (int)(Math.random()*10);
+			LOG.debug("result: "+result);
+		}
+		
+		LOG.debug("프로그램 종료!");
+
+	}
+
+}
+//2022-02-18 15:39:27,647 DEBUG [main] string.LoggerManager (ExceptionEx01Main.java:14)     - result: 33
+//2022-02-18 15:39:27,648 DEBUG [main] string.LoggerManager (ExceptionEx01Main.java:14)     - result: 12
+//Exception in thread "main" java.lang.ArithmeticException: / by zero
+//	at com.pcwk.exception.ExceptionEx01Main.main(ExceptionEx01Main.java:13)

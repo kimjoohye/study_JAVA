@@ -1,0 +1,36 @@
+/**
+* <pre>
+* 
+* Class Name : JacaDocMake.java
+* Description: 자바 Document 생성 테스트
+* Author: ITSC
+* Since: 2022/02/22
+* Version 0.1
+* Copyright (c) by H.R.KIM All right reserved.
+* Modification Information
+* 수정일   수정자    수정내용
+*-----------------------------------------------------
+*2022/02/22 최초생성
+*-----------------------------------------------------
+* </pre>
+*/
+
+/**
+ * <pre>
+ * 자바 클래스
+ * @author ITSC
+ *</pre>
+ */
+public class JacaDocMake {
+
+	/**
+	 * main 메서드
+	 * 
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+
+	}
+
+}

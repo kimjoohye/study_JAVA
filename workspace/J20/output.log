@@ -1,0 +1,13 @@
+2022-03-03 10:06:30,236 DEBUG [main] cmn.LoggerManager (FileReaderEx01.java:25)     - Log4j
+2022-03-03 10:27:14,582 DEBUG [main] cmn.LoggerManager (FileWriterEx01.java:34)     - 프로그램 종료!
+2022-03-03 10:30:45,318 DEBUG [main] cmn.LoggerManager (FileWriterEx01.java:39)     - 프로그램 종료!
+2022-03-03 10:32:15,407 DEBUG [main] cmn.LoggerManager (FileWriterEx01.java:39)     - 프로그램 종료!
+2022-03-03 10:39:25,089 DEBUG [main] cmn.LoggerManager (FileWriterEx01.java:42)     - 프로그램 종료!
+2022-03-03 10:42:13,515 DEBUG [main] cmn.LoggerManager (FileWriterEx01.java:49)     - 프로그램 종료!
+2022-03-03 11:02:34,800 DEBUG [main] cmn.LoggerManager (FileReaderWriterEx01.java:46)     - 프로그램 완료!
+2022-03-03 11:03:45,810 DEBUG [main] cmn.LoggerManager (FileReaderWriterEx01.java:48)     - 프로그램 완료!
+2022-03-03 11:07:32,617 DEBUG [main] cmn.LoggerManager (FileReaderWriterEx01.java:48)     - 프로그램 완료!
+2022-03-03 11:08:16,122 DEBUG [main] cmn.LoggerManager (FileReaderWriterEx01.java:48)     - 프로그램 완료!
+2022-03-03 11:09:12,896 DEBUG [main] cmn.LoggerManager (FileReaderWriterEx01.java:48)     - 프로그램 완료!
+2022-03-03 11:16:46,500 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:41)     - 프로그램 종료!
+2022-03-03 11:17:58,535 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:42)     - 프로그램 종료!
